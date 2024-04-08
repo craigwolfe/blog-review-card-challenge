@@ -122,7 +122,7 @@ body {
   padding: 24px;
   background-color: #ffffff;
 }
-img .courseGraphic {
+.courseGraphic img {
   width: 336px;
   height: 200px;
   border-radius: 10px;
