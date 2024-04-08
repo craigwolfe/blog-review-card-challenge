@@ -140,6 +140,7 @@ button {
   width: 89px;
   height: 29px;
   margin-top: 24px;
+  cursor: pointer;
 }
 .courseDate {
   font-size: 1rem;
