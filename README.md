@@ -80,7 +80,7 @@ I definitely want to know as much about CSS Flexbox and Grid, JavaScript, React.
 
 ## Author
 
-- Frontend Mentor - [@craigwolfe(https://www.frontendmentor.io/profile/craigwolfe)
+- Frontend Mentor - [@craigwolfe](https://www.frontendmentor.io/profile/craigwolfe)
 
 ## Acknowledgments
 
