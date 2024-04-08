@@ -1,0 +1,15 @@
+html {
+  font-size: 62.5%; /* (62.5/100) * 16px = 10px */
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+body{
+display:flex;
+}
+
+.container{
+}
