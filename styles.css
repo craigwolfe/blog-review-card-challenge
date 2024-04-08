@@ -116,15 +116,15 @@ body {
   margin-top: 218px;
   border-radius: 16px;
   box-shadow: 16px 16px 0px 0px #121212;
-  width: 378px;
+  width: 375px;
   height: 518px;
   border: 1px solid #121212;
   padding: 24px;
   background-color: #ffffff;
 }
-main {
+/* main {
   width: 100%;
-}
+} */
 .courseGraphic img {
   width: 336px;
   height: 200px;
