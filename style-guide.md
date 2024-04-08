@@ -13,13 +13,13 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Yellow: hsl(47, 88%, 63%)
+- Yellow: hsl(47, 88%, 63%) 	#f4d04e
 
 ### Neutral
 
-- White: hsl(0, 0%, 100%)
-- Grey: hsl(0, 0%, 50%)
-- Black: hsl(0, 0%, 7%)
+- White: hsl(0, 0%, 100%) #ffffff
+- Grey: hsl(0, 0%, 50%) 	#808080
+- Black: hsl(0, 0%, 7%).   	#121212
 
 ## Typography
 
